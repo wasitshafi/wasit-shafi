@@ -2,12 +2,14 @@
 
 This project is the portfolio website developed in react, deployed on github pages.
 
-# Tech Stack (Current Status:Active)
+Project Current Status is **Active**
 
-- Front-end
+# Tech Stack
+
+- **Front-end**
   - React
   - Material UI
-- Back-end
+- **Back-end**
   - Node.js
 
 # Some Available Scripts
