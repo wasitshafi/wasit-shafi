@@ -63,5 +63,5 @@ This project is the portfolio website developed in react, deployed on github pag
 
 []()
 
-<p align='center'>This README.ME is last updated on <b>22-MAR-2023</b></p>
+<p align='center'>This <b>READ.MD</b> is last updated on <b>22-MAR-2023</b></p>
 <p align='center'>Thanks for you time!</p>
