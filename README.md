@@ -1,6 +1,6 @@
 # wasit-shafi
 
-This project is the portfolio website developed in react, deployed on github pages.
+This project is portfolio website developed in react, deployed on github pages.
 
 Project Current Status is **Active**
 
@@ -42,9 +42,10 @@ Project Current Status is **Active**
 
 - Builds the app for production to the `build` folder.
 
-# Project Guidelines
+# Project Guidelines and tasks
 
 - Some of the best coding practice used in this project are documented in [./guidelines.md](./guidelines.md).
+- To view tasks in WIP,TODO,DONE,BLOCKED,etc refer [./tasks.md](./tasks.md)
 
 # Important links
 
