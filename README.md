@@ -1,46 +1,67 @@
-# Getting Started with Create React App
+# wasit-shafi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the portfolio website developed in react, deployed on github pages.
 
-## Available Scripts
+# Tech Stack (Current Status:Active)
 
-In the project directory, you can run:
+- Front-end
+  - React
+  - Material UI
+- Back-end
+  - Node.js
+
+# Some Available Scripts
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Runs the app in the development mode.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `npm run deploy`
+
+- This will deploy the latest code on github pages [wasitshafi.github.io/wasit-shafi](https://wasitshafi.github.io/wasit-shafi), internally `deploy` will run the `predeploy` script, for more info refer [gh-pages](https://create-react-app.dev/docs/deployment/#github-pages)
+
+### `npm run format-codebase`
+
+- This will update the all the source code as per prettier configuration in [/.prettierrc.json](.prettierrc.json) and will ignore the path mentioned in [/.prettierignore](/.prettierignore) file. For more info refer [prettier docs](https://prettier.io/docs/en/options.html)
+
+### `npm run check-codebase`
+
+- This will only check all the source code(will not overwrite anything) w.r.t prettier configuration of the project.
+
+### `npm run lint`
+
+- To run the eslint as per es-lint configuration in [/.eslintrc.json](/.eslintrc.json) and will ignore the path mentioned in [/.eslintignore](/.eslintignore) file.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Builds the app for production to the `build` folder.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Project Guidelines
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Some of the best coding practice used in this project are documented in [./guidelines.md](./guidelines.md).
 
-### `npm run eject`
+# Important links
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[create-react-app docs](https://create-react-app.dev/docs/getting-started/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[material ui docs](https://mui.com/material-ui/getting-started/overview/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[react docs](https://legacy.reactjs.org/docs/getting-started.html)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Learn More
+[prettier docs](https://prettier.io/docs/en/options.html)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[npm](https://www.npmjs.com/)
+[]()
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[]()
+
+[]()
+
+<p align='center'>This README.ME is last updated on **22-MAR-2023** by @wasitshafi</p>
+<p align='center'>Thanks for you time!</p>
