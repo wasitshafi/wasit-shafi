@@ -5,3 +5,5 @@
 [**WIP**]: update read.me
 
 [**TODO**]: integrate the node-api
+
+[**TODO**]: update/fix import alias paths in tsconfig and webpack config file
