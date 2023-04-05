@@ -2,7 +2,7 @@
 
 This project is portfolio website developed in react, deployed on github pages.
 
-Project Current Status is **Active**
+Project Current Status is **Dormant**
 
 # Tech Stack
 
