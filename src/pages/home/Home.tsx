@@ -6,7 +6,7 @@ import { Header, Body, Footer } from 'components';
 export const Home = () => {
   return (
     <>
-      <Typography variant='h6' sx={{ color: 'secondary.light' }}>
+      <Typography variant='h6' sx={{  border: '1px solid red' }}>
         <Header />
         <Body />
         <Footer />

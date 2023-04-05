@@ -1,5 +1,13 @@
 import React from 'react';
 
+import { Box } from '@mui/material';
+
 export const Header = () => {
-  return <p>Header</p>;
+  return (
+    <>
+      <Box sx={{border: '1px dashed grey' }}>
+        <p>Header</p>
+      </Box>
+    </>
+  );
 };
